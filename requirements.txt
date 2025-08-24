@@ -2,21 +2,21 @@
 # 版本要求：Python 3.7+
 
 # 核心資料處理
-pandas>=1.3.0
+pandas==2.2.*
 numpy>=1.21.0
 
 # GUI 介面
-PyQt5>=5.15.0
+PyQt5==5.*
 
 # 檔案處理
-openpyxl>=3.0.0
+openpyxl==3.1.*
 xlrd>=2.0.0
 
 # 編碼偵測
-chardet>=4.0.0
+chardet==5.*
 
 # 模糊比對
-rapidfuzz>=2.0.0
+rapidfuzz==3.*
 
 # 可選套件（用於進階功能）
 # python-dateutil>=2.8.0  # 日期處理
